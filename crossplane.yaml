@@ -11,8 +11,8 @@ spec:
     version: ">=v1.14.1-0"
   dependsOn:
     - provider: index.docker.io/ulucinar/provider-family-aws
-      version: "v0.45.0-c914fe18a92011992e32630ca4d0dba4a8f36242"
+      version: "v0.46.0-5e03e3f09730791cd3bc035b00e0b9e349bdfe32"
     - provider: index.docker.io/ulucinar/provider-aws-ec2
-      version: "v0.45.0-c914fe18a92011992e32630ca4d0dba4a8f36242"
+      version: "v0.46.0-5e03e3f09730791cd3bc035b00e0b9e349bdfe32"
     - function: xpkg.upbound.io/upbound/function-patch-and-transform
       version: "v0.2.1"
